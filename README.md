@@ -22,3 +22,6 @@ The core idea of the project is to implement a blood management system. It store
 
 ### Primary Azure Technology :
 Health Bot, Static Web Apps
+
+### Implementation URL :
+[Click Here](https://www.youtube.com/watch?v=q92cBxe59Hs)
