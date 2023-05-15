@@ -24,4 +24,4 @@ The core idea of the project is to implement a blood management system. It store
 Health Bot, Static Web Apps
 
 ### Implementation URL :
-[Click Here](https://www.youtube.com/watch?v=q92cBxe59Hs)
+<a href="https://www.youtube.com/watch?v=q92cBxe59Hs" target="_blank">Click Here</a>
